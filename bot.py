@@ -13,7 +13,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = os.environ["BOT_TOKEN"]
+TOKEN = os.environ["8502087358:AAFhuu_mlDbjugvgH5mj-pRUGYpMSrtNX1E"]
 
 OPS = {
     ast.Add: op.add,
